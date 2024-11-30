@@ -4,7 +4,7 @@ A modern and responsive job portal built using **React.js** on the front end and
 
 ## 🚀 Live Demo
 -  **Deployment**: [https://hirred-git-master-tejas-birajdars-projects.vercel.app/](https://hirred-git-master-tejas-birajdars-projects.vercel.app/)  
-                   [https://hirred-blue.vercel.app/](https://hirred-blue.vercel.app/)
+
 
 ## 📖 Table of Contents
 1. [About the Project](#about-the-project)
