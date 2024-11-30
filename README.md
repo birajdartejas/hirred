@@ -64,9 +64,4 @@ Follow these steps to set up the project locally:
 - A Supabase account
 - A Clerk account
 
-### Installation
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/job-portal.git
-   cd job-portal
