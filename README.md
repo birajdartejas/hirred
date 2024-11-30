@@ -3,8 +3,8 @@
 A modern and responsive job portal built using **React.js** on the front end and **Supabase** for the backend. Authentication is powered by **Clerk**, styled with **Tailwind CSS**, and features UI components from **Shadcn UI**.
 
 ## 🚀 Live Demo
-- **Frontend Deployment**: [[Live Link](https://hirred-git-master-tejas-birajdars-projects.vercel.app/)](#)  
-- **Backend Deployment**: [[Live Link](https://hirred-blue.vercel.app/)](#)
+- **Deployment**: [(https://hirred-git-master-tejas-birajdars-projects.vercel.app/)](#)  
+- **Deployment**: [(https://hirred-blue.vercel.app/)](#)
 
 ## 📖 Table of Contents
 1. [About the Project](#about-the-project)
